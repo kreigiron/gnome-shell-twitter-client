@@ -1,0 +1,5 @@
+{"name": "Twitter Client", 
+"description": "Simple gnome shell twitter client", 
+"uuid": "twitterclient@kreig.iron.gmail.com", 
+"url": "https://github.com/kreigiron/gnome-shell-twitter-client",
+"shell-version": ["3.28.2"]}
